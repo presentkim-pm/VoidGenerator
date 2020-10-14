@@ -1,0 +1,9 @@
+---
+name: VoidGenerator
+main: kim\present\generator\void\Loader
+version: 1.0.0
+api: [4.0.0]
+author: PresentKim
+description: "[ChunkGenerator] A chunk generator that creates empty chunks"
+load: STARTUP
+...
